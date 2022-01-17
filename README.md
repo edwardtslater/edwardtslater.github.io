@@ -2,9 +2,12 @@
 
 - Navy Veteran
 - The State of Florida appointed Notary Public
-- AWS Certified Cloud Practioner  https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
-- AWS Certified Solutions Architect https://www.credly.com/badges/4b8bc4ad-86ce-43e4-bf16-33e12d8d35ea/public_url 
-- Azure Certified Azure Fundamentals https://www.credly.com/badges/a5a8fb33-e900-4d13-b978-a090ca7c05e7/public_url
+- AWS Certified Cloud Practioner  
+   - https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
+- AWS Certified Solutions Architect
+   -  https://www.credly.com/badges/4b8bc4ad-86ce-43e4-bf16-33e12d8d35ea/public_url 
+- Azure Certified Azure Fundamentals
+   -  https://www.credly.com/badges/a5a8fb33-e900-4d13-b978-a090ca7c05e7/public_url
 
 
 
