@@ -1,4 +1,4 @@
-# Edward T Slater #
+
 - Navy Veteran
 - The State of Florida appointed Notary Public
 - AWS Certified Cloud Practioner  https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
@@ -14,7 +14,7 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. c
 ## EXPERIENCE
 
 ### Infosys Ltd. /Sr. Consultant
-#### Oct 2020-September 2021
+### Oct 2020-September 2021
 
 - Serving as a hands-on subject matter expert in an AWS infrastructure environment
 - Work with business units, software developers, security, to design services within AWS to provide a PCI / ISO certified environment
@@ -27,7 +27,7 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. c
 - Maintain PowerShell scripts used for automating server/environment builds
 - Use VisualCron for the scheduling of automated jobs throughout the ecosystem
 
-## Latitude by Genesys  / Manager, Cloud Services (Division of Genesys Telecommunications Laboratories)
+### Latitude by Genesys  / Manager, Cloud Services (Division of Genesys Telecommunications Laboratories)
 ### December 2016 - October 2020, Jacksonville, FL
 - Management and Administration of AWS Services EC2, VPC, S3, ELB, Route 53, Cloudwatch, IAM, and Cloudformation.
 - Practical knowledge of migration from the physical data center to AWS
@@ -46,13 +46,13 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. c
 - Assisted with the creation and automation of infrastructure for the R&D team
 - Maintained physical hardware and virtual environments for R&D Department
 
-## Interactive Intelligence / IT Field Operations Engineer (Acquired by Genesys Telecommunications Laboratories)
+### Interactive Intelligence / IT Field Operations Engineer (Acquired by Genesys Telecommunications Laboratories)
 ### January 2013 - March 2014, Remote
 - Created site-to-site Cisco VPN office connectivity to the corporate network
 - Maintained internal Microsoft OS equipment and peripherals
 - Assisted with the new office provisions dealing with outside vendors to ensure office opened on time
 
-## Latitude Software / System Administrator (Acquired by Interactive Intelligence)
+### Latitude Software / System Administrator (Acquired by Interactive Intelligence)
 ### November 2006 - December 2012, Jacksonville, FL
 - Install, Maintain, and monitor legacy applications within the data center 
 - Maintained Citrix farm for application publishing
