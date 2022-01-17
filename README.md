@@ -1,4 +1,4 @@
-#Edward T Slater#
+# Edward T Slater #
 - AWS Certified Cloud Practioner
 - AWS Certified Solutions Architect
 - Azure Certified Azure Fundamentals
