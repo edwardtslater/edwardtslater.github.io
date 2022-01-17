@@ -1,16 +1,17 @@
 # Edward T Slater #
-- AWS Certified Cloud Practioner
-- AWS Certified Solutions Architect
-- Azure Certified Azure Fundamentals
 - Navy Veteran
-- The state of Florida appointed Notary Public
+- The State of Florida appointed Notary Public
+- AWS Certified Cloud Practioner  https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
+- AWS Certified Solutions Architect https://www.credly.com/badges/4b8bc4ad-86ce-43e4-bf16-33e12d8d35ea/public_url 
+- Azure Certified Azure Fundamentals https://www.credly.com/badges/a5a8fb33-e900-4d13-b978-a090ca7c05e7/public_url
+
 
 
 ## PROFESSIONAL SUMMARY
-### Resourceful Cloud/Systems Engineer consistently responds to a wide range of technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 15 years of progressive IT experience.
+Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. consistently responds to a wide range of technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 
 
 
-##EXPERIENCE
+## EXPERIENCE
 
 ### Infosys Ltd. /Sr. Consultant
 #### Oct 2020-September 2021
@@ -60,20 +61,6 @@
 - Maintained Microsoft OS equipment and office peripherals
 - Administered and maintained an internal phone system
 
-## AWARDS
-### Honorably Discharged – U.S. Navy September 1997
-### Nationa Notary Assiocation - Florida Appointed Notary  
-## AWS Certified Cloud Practitioner
-### https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
-## AWS Certified Solutions Architect Associate
-### https://www.credly.com/badges/4b8bc4ad-86ce-43e4-bf16-33e12d8d35ea/public_url 
-## Microsoft Certified: Azure Fundamentals
-### https://www.credly.com/badges/a5a8fb33-e900-4d13-b978-a090ca7c05e7/public_url 
-## EDUCATION
-### Tampa Technical Institute / Associate Degree, Internet Information Systems
-### April 2001 - November 2002,  Jacksonville, FL
-
- 
  
 ## Continuing Education
  
