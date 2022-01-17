@@ -12,7 +12,7 @@
 
 
 ## PROFESSIONAL SUMMARY
-Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. consistently responds to a wide range of technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 
+Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience, consistently responds to a wide range of technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 
 
 
 ## EXPERIENCE
