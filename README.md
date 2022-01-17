@@ -1,3 +1,4 @@
+# Edward T. Slater
 
 - Navy Veteran
 - The State of Florida appointed Notary Public
