@@ -12,10 +12,21 @@
 
 
 ## PROFESSIONAL SUMMARY
-Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience, consistently responds to a wide range of technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 
+Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience consistently responds to various technical challenges with a focused and creative approach. Highly effective at problem-solving and decision-making. 
 
 
 ## EXPERIENCE
+
+### Navitas Credit Corp. / Sr. Network Engineer 
+### March 2022-Present
+
+- Serving as a hands-on subject matter expert in an AWS infrastructure environment
+- Determining areas for improvement and implementing processes to alleviate problems
+- Provide daily monitoring, management, troubleshooting, and issue resolution to systems and services hosted on cloud resources
+- Provided 2nd and 3rd-level technical support and troubleshooting to internal users
+- Proposed technical feasibility solutions for new system designs and suggested options for performance improvement of technical components
+- Assist with administration of Office 365 products
+   - Sharepoint Administrator
 
 ### Infosys Ltd. /Sr. Consultant
 ### Oct 2020-September 2021
