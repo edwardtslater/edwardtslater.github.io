@@ -1,8 +1,8 @@
 # Edward T. Slater
 
 - Navy Veteran
-- The State of Florida appointed Notary Public (
-- AWS Certified Cloud Practioner  
+- The State of Florida appointed a Notary Public 
+- AWS Certified Cloud Practitioner  
    - https://www.credly.com/badges/0517ce31-0876-4a7e-a2e9-6526fe45a033/public_url
 - AWS Certified Solutions Architect
    -  https://www.credly.com/badges/4b8bc4ad-86ce-43e4-bf16-33e12d8d35ea/public_url 
@@ -21,16 +21,16 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience co
 ### March 2022-Present
 
 - Serving as a hands-on subject matter expert in an AWS infrastructure environment
-- Developed AWS Patch Manager for automated Monthly Windows Server updates using AWS ecosystem
+- Developed AWS Patch Manager for automated Monthly Windows Server updates using the AWS ecosystem
 - Proposed technical feasibility solutions for new system designs and suggested options for performance improvement of technical components
 - Provide daily monitoring, management, troubleshooting, and issue resolution to systems and services hosted on cloud resources
 - Provided 2nd and 3rd-level technical support and troubleshooting for applications and hardware consisting of a mix of laptops and desktops
 
-- Assist with administration of Office 365 products
-   - Sharepoint Administrator
+- Assist with the administration of Office 365 products
+   - SharePoint Administrator
 
-### Infosys Ltd. /Sr. Consultant
-### Oct 2020-September 2021
+### Infosys Ltd. /Sr Consultant
+### Oct 2020 - September 2021
 
 - Serving as a hands-on subject matter expert in an AWS infrastructure environment
 - Work with business units, software developers, and security to design services within AWS to provide a PCI / ISO-certified environment
@@ -54,7 +54,7 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience co
 - Maintain the margin rate for $2.5m in annual revenue SaaS platform
 - Participated in the ISO and PCI process through the discovery and remediation phases of getting certified
 - Assist business units with the RFP process
-- Facilitate with the BCP planning  for the organization
+- Facilitate the BCP planning  for the organization
 - Coordinate the manual reporting process for AP billing
 
 ## Genesys | Interactive Intelligence / Associate Software Engineer, DevOps 
@@ -66,13 +66,13 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience co
 ### January 2013 - March 2014, Remote
 - Created site-to-site Cisco VPN office connectivity to the corporate network
 - Maintained internal Microsoft OS equipment and peripherals
-- Assisted with the new office provisions dealing with outside vendors to ensure the office opened on time
+- Assisted with the new office provisions, dealing with outside vendors to ensure the office opened on time
 
 ### Latitude Software / System Administrator (Acquired by Interactive Intelligence)
 ### November 2006 - December 2012, Jacksonville, FL
-- Install, Maintain, and monitor legacy applications within the data center 
+- Install, maintain, and monitor legacy applications within the data center 
 - Maintained Citrix farm for application publishing
-- Was the point of contact for datacenter relationship
+- Was the point of contact for the datacenter relationship
 - Maintained relationships with third-party vendors
 - Maintained Microsoft OS equipment and office peripherals
 - Administered and maintained an internal phone system
