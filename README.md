@@ -1,7 +1,7 @@
 
 # Edward Slater
 **Cloud/System Engineer**  
-Jacksonville, FL | 904-219-6221 | edwardtslater@gmail.com | https://edwardtslater.github.io
+
 
 ---
 
