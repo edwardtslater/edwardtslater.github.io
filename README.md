@@ -15,9 +15,9 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. S
 ### Sr. Network Admin – Navitas Credit Corp. (March 2021–Present)
 - Participated in company-wide migration from AWS/Citrix to Azure/AVD, including FSLogix implementation and Nerdio automation.
 - Validated application compatibility and optimized VM performance.
+- Managed Azure & AWS patching using each platform's auto patching service.
+- Administer Microsoft 365 Tenant - including users, licenses, groups, MFA, and auditing.
 - Implemented Azure Autopilot for zero-touch provisioning.
-- Managed AWS patching using Systems Manager Patch Manager.
-- Administered Microsoft 365 users, licenses, groups, MFA, and auditing.
 - Performed daily monitoring, troubleshooting, and optimization of cloud systems.
 
 ### Sr. Consultant – Infosys Ltd. (Oct 2020–Sep 2021)
@@ -52,7 +52,7 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. S
 
 ## Awards & Certifications
 - Honorably Discharged – U.S. Navy (1997)
-- Florida Appointed Notary
+- Florida Appointed Notary (expired)
 - AWS Certified Cloud Practitioner (expired)
 - AWS Solutions Architect Associate (expired)
 - Microsoft Certified: Azure Fundamentals
@@ -81,3 +81,4 @@ Resourceful Cloud/Systems Engineer with 15 years of progressive IT experience. S
 - Virtualization
 - Jira, Confluence, ServiceNow
 - Nerdio (MSP)
+- Iru (MDM)
